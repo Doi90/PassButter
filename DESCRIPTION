@@ -1,11 +1,9 @@
 Package: PassButter
 Type: Package
-Title: Various utility functions I use in my work
+Description: Various utility functions I use in my work
 Version: 0.1.0
 Author: David Wilkinson
 Maintainer: David Wilkinson <davidpw@student.unimelb.edu.au>
-#Description: More about what it does (maybe more than one line)
-#   Use four spaces when indenting paragraphs within the Description.
 License: BSD_3_clause + file LICENSE
 Encoding: UTF-8
 LazyData: true
