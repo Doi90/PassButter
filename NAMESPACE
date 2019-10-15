@@ -2,4 +2,5 @@
 
 export("%nin%")
 export(print_fs)
+export(spoof_legend)
 export(statusbar)
