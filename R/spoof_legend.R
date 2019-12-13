@@ -2,7 +2,7 @@
 #'
 #' @description Make a fake legend using a colour palette
 #'
-#' @usage spoof_legend(cs)
+#' @usage spoof_legend(colours, labels, label_text, borders, ncol, nrow, cex_label, label_padding_x, label_padding_y)
 #'
 #' @param colours a colour palette character string
 #'

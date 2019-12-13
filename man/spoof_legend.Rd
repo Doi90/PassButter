@@ -4,7 +4,7 @@
 \alias{spoof_legend}
 \title{spoof_legend}
 \usage{
-spoof_legend(cs)
+spoof_legend(colours, labels, label_text, borders, ncol, nrow, cex_label, label_padding_x, label_padding_y)
 }
 \arguments{
 \item{colours}{a colour palette character string}
