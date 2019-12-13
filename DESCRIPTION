@@ -7,9 +7,10 @@ Authors@R:
            role = c("aut", "cre"),
            email = "davidpw@student.unimelb.edu.au",
            comment = c(ORCID = "0000-0002-9560-6499"))
-Description: What the package does (one paragraph).
+Description: Utility function one stop shop.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 URL: https://github.com/Doi90/PassButter
 BugReports: https://github.com/Doi90/PassButter/issues
+RoxygenNote: 7.0.2
